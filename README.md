@@ -1,2 +1,6 @@
 # GitDataObj
-expreiment file
+operation on git and github 
+
+#Info
+Name:Shubham Khalane
+Std:BE(Com)
